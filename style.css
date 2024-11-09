@@ -1,0 +1,41 @@
+*{
+	margin:5;
+	padding:0;
+	font-family: monospace;
+}
+
+
+
+
+body{
+	background-color:#242a45;
+}
+h1{
+	color:#eceef7;
+	font-size:40pt;
+	border:10px solid #eceef7;
+}
+div{
+	color:#eceef7;
+}
+
+
+header {
+	
+	
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+	
+}
+li{
+	border:10px solid #eceef7;
+	font-size:50pt;
+	margin: 5px;
+	display:inline;
+}
+
+a, a:visited, a:active {
+	
+	color:white;
+}
