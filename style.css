@@ -39,3 +39,7 @@ a, a:visited, a:active {
 	
 	color:white;
 }
+
+#logo {
+	height: 100px;
+}
