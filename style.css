@@ -26,6 +26,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+	flex-direction: row;
 	
 }
 li{
@@ -42,4 +43,22 @@ a, a:visited, a:active {
 
 #logo {
 	height: 100px;
+}
+@media screen and (max-width: 667px){
+	header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		flex-direction: column;
+	}
+
+	
+}
+.dem{
+	border:5px ridge #eceef7;
+	border-radius: 10%;
+}
+.ps{
+	color:#eceef7;
+	font-size:30pt;
 }
