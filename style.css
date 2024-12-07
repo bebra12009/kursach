@@ -110,3 +110,37 @@ a, a:visited, a:active {
 		box-shadow: 0px 0px 10px 20px white;
 	}
 }
+iframe{
+	border:10px ridge #eceef7 ;
+}
+.brnf{
+	width:560;
+    height:315;
+	border:10px ridge #eceef7
+}
+
+.main-content {
+	display: flex
+	;
+	padding: 20px;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+
+}
+
+.list-content{
+	width: 80%;
+	display: flex;
+	overflow: auto;
+}
+hr{
+	color: #eceef7;
+    width: 100%;
+    margin: 50px 0;
+}
+
+.hot-game {
+
+
+}
