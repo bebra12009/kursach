@@ -57,6 +57,8 @@ a, a:visited, a:active {
 .dem{
 	border:5px ridge #eceef7;
 	border-radius: 10%;
+	width: 92;
+	height:92;
 }
 .ps{
 	color:#eceef7;
@@ -143,4 +145,19 @@ hr{
 .hot-game {
 
 
+}
+h3{
+	color:#eceef7;
+	font-size:40pt;
+}
+footer{
+	background-color: black;
+	padding: 20px;
+	margin: 0px;
+	color: white;
+}
+
+footer p {
+
+	font-size: 27pt;
 }
